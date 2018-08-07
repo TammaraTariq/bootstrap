@@ -1,0 +1,90 @@
+.navbar {
+   
+    direction: rtl;
+}
+
+.navbar-nav .btn-danger{
+margin-left: 30px;
+}
+
+.container {
+    width: 100%;
+    padding-left: 115px;
+    padding-right: 115px;
+}
+
+.mr{
+margin-top: 20px;
+}
+.btn-dark {
+  
+    width: 280px;
+}
+
+.background{
+    background-color: #ffc118;
+    padding: 40px;
+}
+.h2m{
+    
+    padding: 10px;
+    font-weight: bold;
+}
+
+
+
+
+.width-size{
+    width: 595px;
+}
+.center{
+text-align: center;
+padding: 10px;
+border: 0;
+box-shadow: 12px;
+}
+
+
+.best {
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 7px 20px 0 #edeaea;
+}
+
+.card-img-top {
+    
+    max-height: 120px;
+    object-fit: cover;
+}
+.posi-p{
+    position: absolute;
+    top: 140px;
+}
+.pa-padding{
+    margin-top: 20px;
+}
+
+.card{
+    margin-top: 20px;
+}
+
+.size-pass {
+   
+    width: 290px;
+}
+.footer-padding{
+    margin-top: 100px;
+    background-color:black;
+    color: #fff;
+    padding: 20px;
+}
+
+.offset-lg-0 {
+   
+    display: inherit;
+}
+.footer{
+    padding: 20px;
+    direction: ltr;
+    background-color: #ffc118;
+}
